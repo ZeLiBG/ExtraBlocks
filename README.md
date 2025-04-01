@@ -1,11 +1,12 @@
 <h1><b>Extra Blocks Mod</b></h1>
 The Extra Blocks mod is a <b>FABRIC</b> based mod that adds a new menu where you can conveniently take blocks for building and other things.
+PROJECT IS UNDER REVIEWING!
 <br>
 <br>
 <br>
 <h2><a href="https://modrinth.com/mod/extrablocks">Download from Modrinth</a></h2>
 
-<a href="https://modrinth.com/mod/extrablocks">![Modrinth](https://github.com/user-attachments/assets/5a62ba74-2d8b-47ec-950a-8d3a8280cff2)</a>
+<a href="https://modrinth.com/mod/extrablocks">![modrinth](https://github.com/user-attachments/assets/b23d90cb-ba32-40d0-a4fc-a28e322e68be)</a>
 <br>
 <br>
 
